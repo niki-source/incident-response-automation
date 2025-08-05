@@ -43,11 +43,7 @@ Organizations often struggle to:
 - Automates alert generation and reporting (CSV, PDF)  
 - Simulates response actions like account disabling or host isolation  
 
----
 
-### Architecture Diagram
-
-*(Add your diagram here, e.g., architecture_diagram.png)*
 
 ---
 
@@ -105,21 +101,7 @@ pip install splunk-sdk pandas reportlab
 ```bash
 python incident_response_automation.py
 
----
 
-## 📂 Repo Structure
-incident-response-automation/
-├── README.md
-├── architecture_diagram.png
-├── incident_response_automation.py
-├── sample_logs/
-│   ├── powershell_logs.evtx
-│   ├── network_logs.pcap
-├── detection_rules/
-│   └── splunk_queries.conf
-├── reports/
-│   └── incident_report_2025-08-04.pdf
-├── requirements.txt
 
 📚 References
 MITRE ATT&CK Framework
