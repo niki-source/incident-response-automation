@@ -1,9 +1,6 @@
 # incident-response-automation
 Simulates a full incident response lifecycle with automated detection, alerting, and reporting in a SOC environment.
 
-# incident-response-automation
-
-Automated incident detection, alerting, and reporting to simulate a full SOC incident response lifecycle.
 
 ---
 
